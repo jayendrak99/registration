@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <test name="Registration(failed)">
+    <classes>
+      <class name="hms.hotelogix.registration.Testpage.EnglishPage">
+        <methods>
+          <include name="fn_WittyWizardPages"/>
+          <include name="fn_HotelRegister"/>
+        </methods>
+      </class> <!-- hms.hotelogix.registration.Testpage.EnglishPage -->
+    </classes>
+  </test> <!-- Registration(failed) -->
+</suite> <!-- Failed suite [Suite] -->

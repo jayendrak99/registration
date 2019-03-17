@@ -1,0 +1,12 @@
+<suite name="Suite" >
+
+  <test name="Registration">
+  
+    <classes>
+         <class name="hms.hotelogix.registration.Testpage.EnglishPage"/>
+    </classes> 
+    
+  </test>
+  
+
+</suite> 

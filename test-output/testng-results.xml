@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22545" started-at="2018-12-03T13:36:34Z" finished-at="2018-12-03T13:36:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22545" started-at="2018-12-03T13:36:34Z" finished-at="2018-12-03T13:36:57Z">
+      <class name="hms.hotelogix.registration.GenericClass.Test">
+        <test-method status="PASS" signature="test()[pri:0, instance:hms.hotelogix.registration.GenericClass.Test@4883b407]" name="test" is-config="true" duration-ms="9991" started-at="2018-12-03T19:06:34Z" finished-at="2018-12-03T19:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="fn_Test(java.lang.String, java.lang.String)[pri:0, instance:hms.hotelogix.registration.GenericClass.Test@4883b407]" name="fn_Test" duration-ms="4292" started-at="2018-12-03T19:06:44Z" data-provider="SearchProvider" finished-at="2018-12-03T19:06:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Guru99]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fn_Test -->
+        <test-method status="PASS" signature="fn_Test(java.lang.String, java.lang.String)[pri:0, instance:hms.hotelogix.registration.GenericClass.Test@4883b407]" name="fn_Test" duration-ms="4123" started-at="2018-12-03T19:06:48Z" data-provider="SearchProvider" finished-at="2018-12-03T19:06:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Krishna]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fn_Test -->
+        <test-method status="PASS" signature="fn_Test(java.lang.String, java.lang.String)[pri:0, instance:hms.hotelogix.registration.GenericClass.Test@4883b407]" name="fn_Test" duration-ms="4113" started-at="2018-12-03T19:06:52Z" data-provider="SearchProvider" finished-at="2018-12-03T19:06:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bhupesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[USA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fn_Test -->
+      </class> <!-- hms.hotelogix.registration.GenericClass.Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
